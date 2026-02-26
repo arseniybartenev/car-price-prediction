@@ -109,7 +109,7 @@
 ```
 car_price_prediction/
 ├── data/                               # Папка для исходных данных
-│   └── autos.csv                        # Файл с данными об автомобилях
+│   └── autos.csv                       # Файл с данными об автомобилях (требуется разархивировать)
 ├── notebooks/                          # Jupyter ноутбук с полным анализом
 │   └── determining_the_cost_of_cars.ipynb
 ├── README.md                           # Этот файл
